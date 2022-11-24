@@ -4,13 +4,14 @@
 - the purpose is only to practice Vue.js, so the program is without any CSS design.
 - Vue.js/ HTML5 
 - use array to add/delete options
-#Instruction
+# Instruction
 - Type a todo in the field
 - Press Enter key
 - Click Delete link to delete the todo
-#My thinking
+# My thinking
 - Create a empty array called todolist and a string called todo, which the array is composed of many todos.
 - Create a method to add string to array using array.push
 - Create a method to delete string by using array splice.
 
-#Update
+# Update
+- 2022/11/25 Add a constraint to the input-->When the input is empty, it will not be added to the array
