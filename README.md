@@ -3,3 +3,7 @@
 - the purpose is only to practice Vue.js, so the program is without any CSS design.
 - Vue.js/ HTML5 
 - use array to add/delete options
+#My thinking
+- Create a empty array called todolist and a string called todo, which the array is composed of many todos.
+- Create a method to add string to array using array.push
+- Create a method to delete string by using array splice.
